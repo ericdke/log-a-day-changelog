@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.5.0
+## 1.5.0 (testing)
 
 - New: add event(s) to a category with the Shortcuts app. 
 
@@ -9,6 +9,8 @@ This new Shortcut accepts a list of date strings (format "2022/02/19 15:33"), a 
 - New: 'Add note to last event' popup in Today tab. 
 
 This popup shows up for a few seconds after a category cell has been tapped in the Today tab. Can be disabled in Settings.
+
+- Added a link to the changelog in the Settings tab
 
 ## 1.4.0
 
