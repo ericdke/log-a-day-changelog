@@ -2,15 +2,16 @@
 
 ## 1.5.0 (testing)
 
-- New: add event(s) to a category with the Shortcuts app. 
+- Add event(s) to a category with the Shortcuts app. 
 
 This new Shortcut accepts a list of date strings (format "2022/02/19 15:33"), a category title, and an optional note. Date strings can be entered manually, received as variables, or received directly from another shortcut action. A new event will be created for the selected category for each date string received by the shortcut.
 
-- New: 'Add note to last event' popup in Today tab. 
+- Tap on the current month label in the History tab to display a popup menu with all available months.
 
-This popup shows up for a few seconds after a category cell has been tapped in the Today tab. Can be disabled in Settings.
+- New 'Add note to last event' popup in Today tab. This popup shows up for a few seconds after a category cell has been tapped in the Today tab. Disabled by default, can be toggled in Settings.
 
-- Added a link to the changelog in the Settings tab
+- Added a link to the changelog page in the Settings tab
+
 
 ## 1.4.0
 
@@ -51,15 +52,31 @@ This popup shows up for a few seconds after a category cell has been tapped in t
 
 - Some translations were added and improved
 
+## 1.2.1
+
+- Fixed sorting of categories names containing diacritics
+
 ## 1.2.0
 
 - Bugfixes
 
 - New pick of the moment cards
 
+- Single-line cell format in Today tab
+
+- Create a new category using an existing one as template
+
 ## 1.1
 
-- Bugfixes
+- New: tap on widget to add an event
+
+- Improved month chart readability
+
+- Some fixes for exported chart images
+
+- Fixed a layout issue in Acknowledgments
+
+- Fixed accidental taps in Today tab
 
 ## 1.0
 
