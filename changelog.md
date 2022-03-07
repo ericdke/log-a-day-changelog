@@ -6,7 +6,9 @@
 
 This new Shortcut accepts a list of date strings (format "2022/02/19 15:33"), a category title, and an optional note. Date strings can be entered manually, received as variables, or received directly from another shortcut action. A new event will be created for the selected category for each date string received by the shortcut.
 
-- Tap on the current month label in the History tab to display a popup menu with all available months.
+- Tap on the current month label in the Events tab to display a popup menu with all available months.
+
+- Batch delete events. Tap on the trash icon, select one or several events, then tap the trash icon again to delete the selected events. Available in the current month view in the Events tab, and in all the events lists in the Explore tab.
 
 - New 'Add note to last event' popup in Today tab. This popup shows up for a few seconds after a category cell has been tapped in the Today tab. Disabled by default, can be toggled in Settings.
 
