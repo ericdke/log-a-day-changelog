@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.5.0 (testing)
+## 1.5.0 (84)
 
 - Add event(s) to a category with the Shortcuts app. 
 
@@ -8,7 +8,7 @@ This new Shortcut accepts a list of date strings (format "2022/02/19 15:33"), a 
 
 - Tap on the current month label in the Events tab to display a popup menu with all available months.
 
-- Batch delete events. Tap on the trash icon, select one or several events, then tap the trash icon again to delete the selected events. Available in the current month view in the Events tab, and in all the events lists in the Explore tab.
+- Batch delete events. Available in the current month view in the Events tab, and in all the events lists in the Explore tab.
 
 - New 'Add note to last event' popup in Today tab. This popup shows up for a few seconds after a category cell has been tapped in the Today tab. Disabled by default, can be toggled in Settings.
 
